@@ -2,9 +2,9 @@ import requests
 
 
 vault_url =  "http://127.0.0.1:8200"
-role_id =  "b70bb787-62e5-305e-47ef-4c8530647c60"
-secret_id =  "2ff7b43a-28d9-9d08-af9d-d396a820c811"
-secret_path =  "secret/data/aws"
+role_id =  "ae001f20-b962-e505-1352-18eea60086c8"
+secret_id =  "e820fc93-c9d6-48a7-b382-1712701109df"
+secret_path =  "secret/data/snow"
 
 
 def authenticate_with_approle():
